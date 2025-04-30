@@ -1,4 +1,4 @@
-# Event Management APII
+# Event Management API
 
 A Django REST API for managing events like conferences, meetups, etc. The application allows users to create, view, update, and delete events, as well as register for these events.
 
